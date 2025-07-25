@@ -5,7 +5,7 @@ import '../models/weather.dart';
 class WeatherService {
   // Note: In a real app, you would use your own API key
   // and possibly store it in a secure way
-  static const String _apiKey = '332934c4de7c6f44b18f0933a168232f';
+  static const String _apiKey = '';
   static const String _baseUrl =
       'https://api.openweathermap.org/data/2.5/weather';
 
